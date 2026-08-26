@@ -1,14 +1,14 @@
-# marjoballabani.me
+# M4rzzX Officiall 
 
 A neo-brutalist personal portfolio built with vanilla HTML, CSS, and JavaScript. No frameworks, no build tools, no dependencies - just raw code with bold design choices.
 
 This is a personal fun project, not a production template. The code prioritizes creativity and experimentation over best practices. It's a playground for trying out ideas, animations, and interactions - not a reference architecture.
 
-**[Live Site](https://marjoballabani.me)**
+**[Live Site](https://t.me/M4rzzX_Reals)**
 
-## What is Neo-Brutalism?
+## What is M4rzzX Officiall?
 
-Neo-brutalism (also called neo-brutalist web design) is a UI style inspired by brutalist architecture - raw, bold, and unapologetically loud. It rejects the polished, rounded, drop-shadowed sameness of modern web design and replaces it with:
+M4rzzX Officiall (also called neo-brutalist web design) is a UI style inspired by brutalist architecture - raw, bold, and unapologetically loud. It rejects the polished, rounded, drop-shadowed sameness of modern web design and replaces it with:
 
 - **Thick black borders** - every element has a hard, visible edge
 - **Flat, offset box shadows** - no soft gradients or blurs, just solid color blocks shifted by a few pixels (`box-shadow: 8px 8px 0 #000`)
@@ -54,7 +54,7 @@ The palette uses CSS custom properties for light/dark theming:
 
 ## Terminal Mode
 
-Visit [/terminal.html](https://marjoballabani.me/terminal.html) for an interactive terminal-style resume.
+Visit [/terminal.html](https://M4rzzX_Reals.me/terminal.html) for an interactive terminal-style resume.
 
 Features:
 - Type `help` to see available commands
